@@ -1,4 +1,4 @@
-# 👩‍💻 Asmara Irfan - Software Engineer (Web)
+# Asmara Irfan - Software Engineer (Web)
 
 Welcome to my GitHub profile! I’m Asmara Irfan, a passionate Software Engineer specializing in front-end development with a keen interest in creating engaging and user-friendly web applications.
 
