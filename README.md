@@ -13,10 +13,13 @@ Welcome to my GitHub profile! I’m Asmara Irfan, a passionate Software Engineer
 
 Here are some highlights of my work:
 
-- **💰 Expense Tracker**: A web application for managing and tracking expenses.
-- **📄 Documents Generator Website**: A tool for generating high-quality document images like passports, driver's licenses, and more.
-- **📚 DreamTales**: A React.js web application that allows users to create personalized bedtime stories for children. I focused on developing a responsive UI with a dark theme and smooth animations.
-- **🛠 FixItNow**: A home services and maintenance web application created using the MERN stack.
+💼 **Inventory Management System**: A POS system for managing stock, suppliers, purchases, and sales, built with HTML, CSS (Bootstrap), and JavaScript.
+
+📄 **Documents Generator Website**: A tool for creating high-quality document images, including passports and driver's licenses, with features like date validation and responsive design.
+
+📚 **DreamTales**: A React.js app for crafting personalized bedtime stories for children, featuring a responsive dark theme and smooth animations.
+
+🛠 **FixItNow**: A MERN stack application for home services and maintenance, offering a robust platform for managing service requests and maintenance tasks.
 
 ## 💻 Skills
 
